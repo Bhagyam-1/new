@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.app-body{
+    height: 100vh;
+    width: 100vw;
+}
+.app-nav1{
+    height: 5.5vh;
+    width: 100vw;
+    color: white;
+    font-size: 4.75vh;
+    text-align: left;
+    background-color: #00CD9B;
+}
+.app-nav2{
+    height: 4.5vh;
+    width: 100vw;
+    background-color:black;
+}
+.app-lef{
+    position: absolute;
+    top: 10vh;
+}
