@@ -1,0 +1,25 @@
+.editor-body{
+    height: 90vh;
+    width: 50vw;
+}
+.editor-comp{
+    position: relative;
+    top:5vh;
+    left: 5vw;
+}
+.editor-cell-type{
+    height: 5vh;
+    width: 10vw;
+    border: 1px solid black;
+    position: absolute;
+    top: 1vh;
+    left: 1vw;
+}
+.editor-cell-value{
+    height: 5vh;
+    width: 38vw;
+    border: 1px solid black;
+    position: absolute;
+    top: 14vh;
+    left: 1vw;
+}

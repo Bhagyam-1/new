@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { DocumentViewComponent } from './component/document-view/document-view.component';
 import { EditorComponent } from './component/editor/editor.component';
+import { EditorCellComponent } from './component/editor-cell/editor-cell.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     DocumentViewComponent,
-    EditorComponent
+    EditorComponent,
+    EditorCellComponent
   ],
   imports: [
     BrowserModule,
