@@ -1,0 +1,904 @@
+{
+    "form": [
+      {
+        "id": 0,
+        "text": "MAKE CHECKS PAYABLE TO:",
+        "box": [
+          35,
+          17,
+          108,
+          25
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "MAKE CHECKS PAYABLE TO:",
+            "box": [
+              35,
+              17,
+              108,
+              25
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "text": "New York Medical Group PO BOX 202 New York, NY 10002-0202",
+        "box": [
+          36,
+          24,
+          108,
+          47
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "New York Medical Group PO BOX 202 New York, NY 10002-0202",
+            "box": [
+              36,
+              24,
+              108,
+              47
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "FOR BILLING ENQUIRIES:",
+        "box": [
+          15,
+          60,
+          87,
+          68
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "FOR BILLING ENQUIRIES:",
+            "box": [
+              15,
+              60,
+              87,
+              68
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "212-999-0000",
+        "box": [
+          87,
+          60,
+          128,
+          68
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "212-999-0000",
+            "box": [
+              87,
+              60,
+              128,
+              68
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "John Doe",
+        "box": [
+          37,
+          94,
+          64,
+          100
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "John Doe",
+            "box": [
+              37,
+              94,
+              64,
+              100
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "123 Main Street Anytown, US 12345-6789",
+        "box": [
+          36,
+          100,
+          107,
+          116
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "123 Main Street Anytown, US 12345-6789",
+            "box": [
+              36,
+              100,
+              107,
+              116
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "New York Medical Group PO BOX 202 New York, NY 10002-0202",
+        "box": [
+          177,
+          94,
+          250,
+          116
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "New York Medical Group PO BOX 202 New York, NY 10002-0202",
+            "box": [
+              177,
+              94,
+              250,
+              116
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "DATE OF SERVICE ",
+        "box": [
+          9,
+          147,
+          45,
+          162
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "DATE OF SERVICE ",
+            "box": [
+              9,
+              147,
+              45,
+              162
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "CODE",
+        "box": [
+          45,
+          147,
+          80,
+          162
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "CODE",
+            "box": [
+              45,
+              147,
+              80,
+              162
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "DESCRIPTION OF SERVICE",
+        "box": [
+          80,
+          147,
+          167,
+          162
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "DESCRIPTION OF SERVICE",
+            "box": [
+              80,
+              147,
+              167,
+              162
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "CHARGES",
+        "box": [
+          167,
+          147,
+          200,
+          162
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "CHARGES",
+            "box": [
+              167,
+              147,
+              200,
+              162
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "PAYMENTS",
+        "box": [
+          200,
+          147,
+          236,
+          162
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "PAYMENTS",
+            "box": [
+              200,
+              147,
+              236,
+              162
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "BALANCE",
+        "box": [
+          235,
+          147,
+          271,
+          162
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "BALANCE",
+            "box": [
+              235,
+              147,
+              271,
+              162
+            ]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "10/10/13",
+        "box": [
+          9,
+          162,
+          46,
+          175
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "10/10/13",
+            "box": [
+              9,
+              162,
+              46,
+              175
+            ]
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "XXXX4",
+        "box": [
+          45,
+          162,
+          80,
+          175
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "XXXX4",
+            "box": [
+              45,
+              162,
+              80,
+              175
+            ]
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "OFFICE VISIT, 25 MINUTES",
+        "box": [
+          80,
+          162,
+          168,
+          175
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "OFFICE VISIT, 25 MINUTES",
+            "box": [
+              80,
+              162,
+              168,
+              175
+            ]
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "$200.00",
+        "box": [
+          167,
+          162,
+          200,
+          175
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$200.00",
+            "box": [
+              167,
+              162,
+              200,
+              175
+            ]
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "$140.00",
+        "box": [
+          199,
+          174,
+          236,
+          182
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$140.00",
+            "box": [
+              199,
+              174,
+              236,
+              182
+            ]
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "$60.00",
+        "box": [
+          235,
+          174,
+          271,
+          182
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$60.00",
+            "box": [
+              235,
+              174,
+              271,
+              182
+            ]
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "10/10/13",
+        "box": [
+          9,
+          188,
+          46,
+          199
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "10/10/13",
+            "box": [
+              9,
+              188,
+              46,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "XXXX5",
+        "box": [
+          45,
+          188,
+          80,
+          199
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "XXXX5",
+            "box": [
+              45,
+              188,
+              80,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "text": "BLOOD DRAW",
+        "box": [
+          80,
+          188,
+          168,
+          199
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "BLOOD DRAW",
+            "box": [
+              80,
+              188,
+              168,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "text": "$20.00",
+        "box": [
+          167,
+          188,
+          200,
+          199
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$20.00",
+            "box": [
+              167,
+              188,
+              200,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "text": "$15.00",
+        "box": [
+          199,
+          195,
+          236,
+          206
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$15.00",
+            "box": [
+              199,
+              195,
+              236,
+              206
+            ]
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "text": "$5.00",
+        "box": [
+          235,
+          195,
+          271,
+          206
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$5.00",
+            "box": [
+              235,
+              195,
+              271,
+              206
+            ]
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "text": "CURRENT",
+        "box": [
+          9,
+          337,
+          46,
+          346
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "CURRENT",
+            "box": [
+              9,
+              337,
+              46,
+              346
+            ]
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "text": "30-60 DAYS",
+        "box": [
+          45,
+          337,
+          80,
+          346
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "30-60 DAYS",
+            "box": [
+              45,
+              337,
+              80,
+              346
+            ]
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "text": "60-90 DAYS",
+        "box": [
+          80,
+          337,
+          122,
+          346
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "60-90 DAYS",
+            "box": [
+              80,
+              337,
+              122,
+              346
+            ]
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "text": "90-120 DAYS",
+        "box": [
+          122,
+          337,
+          167,
+          346
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "90-120 DAYS",
+            "box": [
+              122,
+              337,
+              167,
+              346
+            ]
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "text": "120+ DAYS",
+        "box": [
+          167,
+          337,
+          200,
+          346
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "120+ DAYS",
+            "box": [
+              167,
+              337,
+              200,
+              346
+            ]
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "text": "AMOUNT DUE:",
+        "box": [
+          199,
+          337,
+          236,
+          360
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "AMOUNT DUE:",
+            "box": [
+              199,
+              337,
+              236,
+              360
+            ]
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "text": "$65.00",
+        "box": [
+          235,
+          337,
+          271,
+          360
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$65.00",
+            "box": [
+              235,
+              337,
+              271,
+              360
+            ]
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "text": "$65.00",
+        "box": [
+          9,
+          346,
+          46,
+          360
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$65.00",
+            "box": [
+              9,
+              346,
+              46,
+              360
+            ]
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "text": "STATEMENT",
+        "box": [
+          119,
+          127,
+          157,
+          139
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "STATEMENT",
+            "box": [
+              119,
+              127,
+              157,
+              139
+            ]
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "text": "PLEASE DETACH AND RETURN TOP PORTION WITH YOUR PAYMENT",
+        "box": [
+          166,
+          128,
+          268,
+          135
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "PLEASE DETACH AND RETURN TOP PORTION WITH YOUR PAYMENT",
+            "box": [
+              166,
+              128,
+              268,
+              135
+            ]
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "text": "$65.00",
+        "box": [
+          11,
+          126,
+          108,
+          138
+        ],
+        "linking": [
+          []
+        ],
+        "label": "other",
+        "words": [
+          {
+            "text": "$65.00",
+            "box": [
+              11,
+              126,
+              108,
+              138
+            ]
+          }
+        ]
+      }
+    ]
+  }

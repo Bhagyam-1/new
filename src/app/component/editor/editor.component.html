@@ -1,10 +1,21 @@
-<div class="editor-body">
-    <app-editor-cell class="editor-comp">
-        <div class="editor-cell-type">{{temp_arr[0].label}}</div>
-        <div class="editor-cell-value">{{temp_arr[0].text}}</div>
-    </app-editor-cell>
-    <app-editor-cell class="editor-comp">
-        <div class="editor-cell-type">{{temp_arr[1].label}}</div>
-        <div class="editor-cell-value">{{temp_arr[2].text}}</div>
-    </app-editor-cell>
+<div class="editor-body" #editor_box>
+  <app-editor-cell
+    *ngFor="let i of temp_arr"
+    (click)="f(i.box, i.label, i.id)" 
+    class="editor-cell"
+  >
+    <div class="editor-cell-type">{{ i.label }}</div>
+    <select #s class="editor-cell-dropdown" (click)="f2(i.id, s.selectedIndex)">
+      <option hidden>Dropdown</option>
+      <option value="other">other</option>
+      <option>question</option>
+      <option>answer</option>
+      <option>header</option>
+    </select>
+    <div class="editor-cell-value">{{ i.text }}</div>
+
+    <button class="editor-cell-link" *ngIf="i.label==='question' && i.linking[0].length==0" (click)="link_func(i.box, i.id)">Link</button>
+    <button class="editor-cell-delink" *ngIf="i.linking[0].length>0" (click)="delink_func(i.linking[0])">DeLink</button>
+
+  </app-editor-cell>
 </div>

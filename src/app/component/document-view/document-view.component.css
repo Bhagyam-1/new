@@ -1,54 +1,19 @@
-*{
-    margin: 0;
-}
-.doc_view-body{
-    height: 90vh;
+.document-view-body
+{
+    height:70vh;
     width: 50vw;
-    border-right: 3px solid black;
-    overflow: auto;
 }
 img{
     height: 370px;
     width: 280px;
-    border: 2px solid black;
     position: absolute;
-    top: 10px;
-    left: 160px;
+    left: 150px;
 }
-.doc_view-cell{
+.document-view-cell{
     height: 0px;
     width: 0px;
-    border: 1.5px solid red;
+    border: 1.5px solid blue;
     position: absolute;
     top:0px;
     left: 0px;
-    visibility: hidden;
-}
-.doc_view-img1{
-    height:20vh;
-    width: 10vw;
-    background: url(https://simpleinvoice17.net/wp-content/uploads/2017/02/lawn-service-invoice-lawn-care-invoice-template-excel-design-invoice-template-1275-x-1650.png);
-    background-size: 10vw 20vh;
-    border: 1px solid black;
-    position: absolute;
-    top: 65vh;
-    left: 7vw;
-}
-.doc_view-img2{
-    height:20vh;
-    width: 10vw;
-    background: url(http://walkerhomes.net/wp-content/uploads/2014/03/Invoice-Sample.png);
-    background-size: 10.5vw 20vh;
-    position: absolute;
-    top: 65vh;
-    left: 19.5vw;
-}
-.doc_view-img3{
-    height:20vh;
-    width: 10vw;
-    background: url(http://merrychristmaswishes.info/wp-content/uploads/2018/09/medical-bill-template-sample-medical-bill-receipt-format-4-medical-bill-template-receipt-templates-VLixmS.jpg);
-    background-size: 10vw 20vh;
-    position: absolute;
-    top: 65vh;
-    left: 32vw;
 }

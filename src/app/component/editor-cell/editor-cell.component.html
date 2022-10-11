@@ -1,4 +1,7 @@
-<div class="editor-cell-body">
-      <ng-content select=".editor-cell-type" ></ng-content>
-      <ng-content select=".editor-cell-value"></ng-content>
+ <div class="editor-cell-body" #c > <!-- (click)="f()" -->
+    <ng-content select=".editor-cell-type"></ng-content>
+    <ng-content select=".editor-cell-dropdown"></ng-content>
+    <ng-content select=".editor-cell-value"></ng-content>
+    <ng-content select=".editor-cell-link"></ng-content>
+    <ng-content select=".editor-cell-delink"></ng-content>
 </div>

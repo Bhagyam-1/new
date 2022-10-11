@@ -1,10 +1,4 @@
-<div class="doc_view-body">
-    <img src="https://simpleinvoice17.net/wp-content/uploads/2017/02/lawn-service-invoice-lawn-care-invoice-template-excel-design-invoice-template-1275-x-1650.png" usemap="#m"  #im>
-    <map name="m">
-    <area #a *ngFor="let i of ar" shape="rect" coords="{{i.box}}" alt="{{i.text}}" (click)="f(a.coords,a.alt)">
-    </map>
-    <div class="doc_view-cell" #c></div>
-    <div class="doc_view-img1" (click)="select_f(0)"></div>
-    <div class="doc_view-img2" (click)="select_f(1)"></div>
-    <div class="doc_view-img3" (click)="select_f(2)"></div>
+<div class="document-view-body">
+    <img src="{{imageData.path}}" alt="Temp">
+    <div class="document-view-cell" #c></div>
 </div>

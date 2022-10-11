@@ -1,0 +1,79 @@
+.body{
+    display: flex;
+    flex-direction: row;
+    overflow: hidden; 
+    /* border: 1px solid black; */
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    position: relative;
+}
+
+.editor{
+    width: 50vw;
+}
+
+svg{
+   background-color: black;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+
+.document-nav1{
+    height: 5.5vh;
+    width: 100%;
+    color: white;
+    font-size: 3.6vh;
+    /* padding-top: 12px; */
+    text-align: left;
+    background-color: #00CD9B;
+}
+.document-nav2{
+    height: 4.5vh;
+    width: 100%;
+    background-color:black;
+}
+
+.invisible{
+    /* visibility: hidden; */
+    position: absolute;
+    top: 88vh;
+}
+
+
+/* .document-body{
+    height: 100vh;
+    width: 100vw;
+}
+.document-nav1{
+    height: 5.5vh;
+    width: 100vw;
+    color: white;
+    font-size: 4.75vh;
+    text-align: left;
+    background-color: #00CD9B;
+}
+.document-nav2{
+    height: 4.5vh;
+    width: 100vw;
+    background-color:black;
+}
+.document-left-1{
+    position: absolute;
+    top: 10vh;
+    left: 0vw;
+}
+.document-left-2{
+    position: absolute;
+    top:  72vh;
+    left: 0vw;
+}
+.document-right{
+    position: absolute;
+    top:  10vh;
+    left: 50vw;
+} */

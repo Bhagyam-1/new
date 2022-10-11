@@ -1,0 +1,36 @@
+<div class="head">
+  <div class="document-nav1">Annotation-Utility</div>
+  <div class="document-nav2"></div>
+</div>
+
+<div class="body">
+  <div class="container">
+    <app-document-view [imageData]="primaryImage"></app-document-view>
+
+    <svg height="12" width="766" *ngIf="y"  (click)="svg_clicked()">
+      <path y="70" d="M395 2 L400 10 L405 2 Z" fill="lightgreen"/>
+    </svg>
+
+    <app-images
+      [imageData]="imageData"
+
+      (passImage)="updateImage($event)"
+      [hidden]="show"
+    ></app-images>
+
+    <svg height="12" width="766" *ngIf="x" class="invisible" (click)="svg_clicked1()">
+      <path  d="M400 2 L395 10 L405 10 Z" fill="lightgreen"/>
+    </svg>
+  </div>
+
+  <div class="editor">
+    <app-editor class="document-right"></app-editor>
+  </div>
+</div>
+<!-- <div class="document-body">
+    <div class="document-nav1">Mini-IDP</div>
+    <div class="document-nav2"></div>
+    <app-document-view class="document-left-1" [imageData]="primaryImage"></app-document-view>
+    <app-images class="document-left-2" [imageData]="imageData" (passImage)="updateImage($event)"></app-images>
+    <app-editor class="document-right"></app-editor>
+</div> -->
